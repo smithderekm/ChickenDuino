@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalibratePhotoCell", "CalibratePhotoCell\CalibratePhotoCell.csproj", "{F1B00CAF-500C-4E94-A41A-1AAE5BC9C80B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://imploretech.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CalibratePhotoCell\\CalibratePhotoCell.csproj
+		SccProjectName1 = CalibratePhotoCell
+		SccLocalPath1 = CalibratePhotoCell
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B00CAF-500C-4E94-A41A-1AAE5BC9C80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B00CAF-500C-4E94-A41A-1AAE5BC9C80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B00CAF-500C-4E94-A41A-1AAE5BC9C80B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F1B00CAF-500C-4E94-A41A-1AAE5BC9C80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B00CAF-500C-4E94-A41A-1AAE5BC9C80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B00CAF-500C-4E94-A41A-1AAE5BC9C80B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
